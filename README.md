@@ -2,10 +2,13 @@
 
 Welcome to the repository of **Data Structures and Algorithms (DSA) Programming Problems** solved using JavaScript by **TechAlgoSpotlight**. This collection includes a variety of problems categorized by their types and complexity. Each problem is accompanied by a solution.
 
-## Table of Contents
-
-1. [Introduction To Arrays](#array-problems)
-2. [Bit Manipulations](#bit-manipulations)
+## Table of Content
+- [DSA Programming Problems in JavaScript](#dsa-programming-problems-in-javascript)
+  - [Table of Content](#table-of-content)
+  - [Array Problems](#array-problems)
+  - [Bit Manipulations](#bit-manipulations)
+  - [Maths Modular Arithmetic](#maths-modular-arithmetic)
+  - [Support](#support)
 
 ## Array Problems
 
@@ -52,6 +55,15 @@ Welcome to the repository of **Data Structures and Algorithms (DSA) Programming 
 | Set Bit | You are given two integers A and B. Set the A-th bit and B-th bit in 0, and return output in decimal Number System. | [View](./8_bit_manipulations/set-bit.md) |
 | Single Number | Given an array of integers A, every element appears twice except for one. Find that integer that occurs once. | [View](./8_bit_manipulations/single-number.md) |
 | Unset i-th bit | You are given two integers A and B. If B-th bit in A is set, make it unset. If B-th bit in A is unset, leave as it is. | [View](./8_bit_manipulations/unset-i-th-bit.md) |
+
+
+## Maths Modular Arithmetic
+
+| Problem | Description | Solution |
+| ------- | ----------- | -------- |
+| Divisibility by 3 | Given a number in the form of an array A of size N. Each of the digits of the number is represented by A[i]. Check if the number is divisible by 3.| [View](./9_maths_modular_arithimetic/divisibility-by-3.md) |
+| Power with Modules | You are given A, B and C . Calculate the value of (A ^ B) % C| [View](./9_maths_modular_arithimetic/power-with-modules.md) |
+| Mod Array | You are given a large number in the form of a array A of size N where each element denotes a digit of the number. You are also given a number B. You have to find out the value of A % B and return it.| [View](./9_maths_modular_arithimetic/mod-array.md) |
 
 
 ## Support
