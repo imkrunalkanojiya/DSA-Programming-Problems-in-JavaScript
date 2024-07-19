@@ -5,6 +5,7 @@ Welcome to the repository of Data Structures and Algorithms (DSA) programming pr
 ## Table of Contents
 
 1. [Introduction To Arrays](#array-problems)
+2. [Bit Manipulations](#bit-manipulations)
 
 ## Array Problems
 
@@ -39,3 +40,28 @@ Welcome to the repository of Data Structures and Algorithms (DSA) programming pr
 | Spiral Order Matrix II | Given an integer A, generate a square matrix filled with elements from 1 to A2 in spiral order and return the generated square matrix. | [View](./6_arrays_sliding_window/spiral-order-matrix-2.md) |
 | Subarray with given sum and length |Given an array A of length N. Also given are integers B and C. Return 1 if there exists a subarray with length B having sum C and 0 otherwise | [View](./6_arrays_sliding_window/subarray-with-given-sum-and-length.md) |
 | Sum of even indices | You are given an array A of length N and Q queries given by the 2D array B of size Q*2. Each query consists of two integers B[i][0] and B[i][1]. | [View](./7_arrays_extra_problems/sum-of-even-indices.md) |
+
+## Bit Manipulations
+
+| Problem | Description | Solution |
+| ------- | ----------- | -------- |
+| Any base to decimal | You are given a number A. You are also given a base B. A is a number on base B. You are required to convert the number A into its corresponding value in decimal number system.| [View](./8_bit_manipulations/any-base-to-decimal.md) |
+| Check bit | You are given two integers A and B. Return 1 if B-th bit in A is set. Return 0 if B-th bit in A is unset| [View](./8_bit_manipulations/check-bit.md) |
+| Decimal to Any Base | Given a decimal number A and a base B, convert it into its equivalent number in base B. | [View](./8_bit_manipulations/decimal-to-any-base.md) |
+| Number of 1 Bits | Write a function that takes an integer and returns the number of 1 bits present in its binary representation. | [View](./8_bit_manipulations/number-of-1-bits.md) |
+| Set Bit | You are given two integers A and B. Set the A-th bit and B-th bit in 0, and return output in decimal Number System. | [View](./8_bit_manipulations/set-bit.md) |
+| Single Number | Given an array of integers A, every element appears twice except for one. Find that integer that occurs once. | [View](./8_bit_manipulations/single-number.md) |
+| Unset i-th bit | You are given two integers A and B. If B-th bit in A is set, make it unset. If B-th bit in A is unset, leave as it is. | [View](./8_bit_manipulations/unset-i-th-bit.md) |
+
+
+## Support
+If you find the content of this repo interesting and helpful, use the “Buy me a Coffee” link below to buy me a coffee.
+
+<a href="https://buymeacoffee.com/krunalkanojiya" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
+![gif](https://media.giphy.com/media/gTURHJs4e2Ies/giphy.gif)
+
+## Licence
+MIT Licence by TechAlgoSpotlight.com
+
+![photo](https://techalgospotlight.com/wp-content/uploads/2024/06/Group-9.png)
