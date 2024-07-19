@@ -3,12 +3,10 @@
 Welcome to the repository of **Data Structures and Algorithms (DSA) Programming Problems** solved using JavaScript by **TechAlgoSpotlight**. This collection includes a variety of problems categorized by their types and complexity. Each problem is accompanied by a solution.
 
 ## Table of Content
-- [DSA Programming Problems in JavaScript](#dsa-programming-problems-in-javascript)
-  - [Table of Content](#table-of-content)
-  - [Array Problems](#array-problems)
-  - [Bit Manipulations](#bit-manipulations)
-  - [Maths Modular Arithmetic](#maths-modular-arithmetic)
-  - [Support](#support)
+- [Array Problems](#array-problems)
+- [Bit Manipulations](#bit-manipulations)
+- [Maths Modular Arithmetic](#maths-modular-arithmetic)
+- [Support](#support)
 
 ## Array Problems
 
