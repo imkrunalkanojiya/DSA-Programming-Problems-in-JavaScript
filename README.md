@@ -1,6 +1,6 @@
 # DSA Programming Problems in JavaScript
 
-Welcome to the repository of Data Structures and Algorithms (DSA) programming problems solved using JavaScript. This collection includes a variety of problems categorized by their types and complexity. Each problem is accompanied by a solution.
+Welcome to the repository of **Data Structures and Algorithms (DSA) Programming Problems** solved using JavaScript by **TechAlgoSpotlight**. This collection includes a variety of problems categorized by their types and complexity. Each problem is accompanied by a solution.
 
 ## Table of Contents
 
