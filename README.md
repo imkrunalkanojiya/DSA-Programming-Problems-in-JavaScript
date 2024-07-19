@@ -62,6 +62,5 @@ If you find the content of this repo interesting and helpful, use the “Buy me 
 ![gif](https://media.giphy.com/media/gTURHJs4e2Ies/giphy.gif)
 
 ## Licence
-MIT Licence by TechAlgoSpotlight.com
 
 ![photo](https://techalgospotlight.com/wp-content/uploads/2024/06/Group-9.png)
