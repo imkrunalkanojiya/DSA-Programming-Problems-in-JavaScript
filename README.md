@@ -63,4 +63,4 @@ If you find the content of this repo interesting and helpful, use the “Buy me 
 
 ## Licence
 
-![photo](https://techalgospotlight.com/wp-content/uploads/2024/06/Group-9.png)
+![photo](https://techalgospotlight.com/wp-content/uploads/2024/06/Untitled-design-1-1.jpg)
