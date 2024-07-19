@@ -60,7 +60,3 @@ If you find the content of this repo interesting and helpful, use the “Buy me 
 <a href="https://buymeacoffee.com/krunalkanojiya" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 ![gif](https://media.giphy.com/media/gTURHJs4e2Ies/giphy.gif)
-
-## Licence
-
-![photo](https://techalgospotlight.com/wp-content/uploads/2024/06/Untitled-design-1-1.jpg)
