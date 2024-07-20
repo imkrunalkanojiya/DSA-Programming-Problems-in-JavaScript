@@ -2,11 +2,12 @@
 
 Welcome to the repository of **Data Structures and Algorithms (DSA) Programming Problems** solved using JavaScript by **TechAlgoSpotlight**. This collection includes a variety of problems categorized by their types and complexity. Each problem is accompanied by a solution.
 
-## Table of Content
-- [Array Problems](#array-problems)
-- [Bit Manipulations](#bit-manipulations)
-- [Maths Modular Arithmetic](#maths-modular-arithmetic)
-- [Support](#support)
+- [DSA Programming Problems in JavaScript](#dsa-programming-problems-in-javascript)
+  - [Array Problems](#array-problems)
+  - [Bit Manipulations](#bit-manipulations)
+  - [Maths Modular Arithmetic](#maths-modular-arithmetic)
+  - [Sorting](#sorting)
+  - [Support](#support)
 
 ## Array Problems
 
@@ -63,10 +64,23 @@ Welcome to the repository of **Data Structures and Algorithms (DSA) Programming 
 | Power with Modules | You are given A, B and C . Calculate the value of (A ^ B) % C| [View](./9_maths_modular_arithimetic/power-with-modules.md) |
 | Mod Array | You are given a large number in the form of a array A of size N where each element denotes a digit of the number. You are also given a number B. You have to find out the value of A % B and return it.| [View](./9_maths_modular_arithimetic/mod-array.md) |
 
+## Sorting
+
+| Problem | Description | Solution |
+| ------- | ----------- | -------- |
+| Elements Removal | Given an integer array A of size N. You can remove any element from the array in one operation.| [View](./10_sorting/elements-removal.md) |
+| Factors sort | You are given an array A of N elements. Sort the given array in increasing order of number of distinct factors of each element. | [View](./10_sorting/factors-sort.md) |
+| Largest Number | Given an array A of non-negative integers, arrange them such that they form the largest number. | [View](./10_sorting/largest-number.md) |
+| Noble Integer | Given an integer array A, find if an integer p exists in the array such that the number of integers greater than p in the array equals p. | [View](./10_sorting/noble-integer.md) |
+| Tens Digit Sorting | Given an array A of N integers. Sort the array in increasing order of the value at the tens place digit of every number. | [View](./10_sorting/tens-digit-sorting.md) |
 
 ## Support
+
+<a href="https://techalgospotlight.com" target="_blank"><img src="https://techalgospotlight.com/wp-content/uploads/2024/06/Group-9.png" alt="TechAlgoSpotlight" height="60" width="120"></a>
+
 If you find the content of this repo interesting and helpful, use the “Buy me a Coffee” link below to buy me a coffee.
 
 <a href="https://buymeacoffee.com/krunalkanojiya" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 
 ![gif](https://media.giphy.com/media/gTURHJs4e2Ies/giphy.gif)
