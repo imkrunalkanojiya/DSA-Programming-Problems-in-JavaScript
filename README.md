@@ -82,5 +82,8 @@ If you find the content of this repo interesting and helpful, use the “Buy me 
 
 <a href="https://buymeacoffee.com/krunalkanojiya" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
-
 ![gif](https://media.giphy.com/media/gTURHJs4e2Ies/giphy.gif)
+
+## Visitors Count
+
+<img align="left" src = "https://profile-counter.glitch.me/DSA-Programming-Problems-in-JavaScript/count.svg" alt ="Loading">
