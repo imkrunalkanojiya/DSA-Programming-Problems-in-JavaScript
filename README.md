@@ -8,8 +8,11 @@ Welcome to the repository of **Data Structures and Algorithms (DSA) Programming 
   - [Maths Modular Arithmetic](#maths-modular-arithmetic)
   - [Sorting](#sorting)
   - [Strings](#strings)
+  - [Hashing](#hashing)
   - [Support](#support)
   - [Visitors Count](#visitors-count)
+
+---
 
 ## Array Problems
 
@@ -86,6 +89,16 @@ Welcome to the repository of **Data Structures and Algorithms (DSA) Programming 
 | To Upper | You are given a function to_upper() which takes a character array A as an argument. Convert each character of A into uppercase characters if it exists. | [View](./11_strings/to-upper.md) |
 | Toggle Case | You are given a character string A having length N, consisting of only lowercase and uppercase latin letters. | [View](./11_strings/toggle-case.md) |
 
+## Hashing
+
+| Problem | Description | Solution |
+| ------- | ----------- | -------- |
+| Count distinct elements | Given an array A of N integers, return the number of unique elements in the array. | [View](./12_hasing/count-distinct-elements.md) |
+| Frequency of element query | Given an array A. You have some integers given in the array B. For the i-th number, find the frequency of B[i] in the array A and return a list containing all the frequencies. | [View](./12_hasing/frequency-of-element-query.md) |
+| Sub-array with 0 sum | Given an array of integers A, find and return whether the given array contains a non-empty subarray with a sum equal to 0. | [View](./12_hasing/sub-array-with-0-sum.md) |
+
+---
+
 ## Support
 
 <a href="https://techalgospotlight.com" target="_blank"><img src="https://techalgospotlight.com/wp-content/uploads/2024/06/Group-9.png" alt="TechAlgoSpotlight" height="60" width="120"></a>
@@ -95,6 +108,8 @@ If you find the content of this repo interesting and helpful, use the “Buy me 
 <a href="https://buymeacoffee.com/krunalkanojiya" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 ![gif](https://media.giphy.com/media/gTURHJs4e2Ies/giphy.gif)
+
+---
 
 ## Visitors Count
 
